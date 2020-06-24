@@ -1,0 +1,7 @@
+CircularProgressIndicator(
+                      value:counter1.percprog,
+                      strokeWidth: 15,
+                      
+                      valueColor: AlwaysStoppedAnimation<Color>(Colors.green),
+                      backgroundColor: Colors.white,
+                    ),
