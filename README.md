@@ -5,4 +5,4 @@ An app that uses dial animation and progress indicator to keep track of attendan
 + infinite counter 
 
 
-##aesthetic.fucntional.minimal###
+..... ## aesthetic.fucntional.minimal ##
