@@ -3,4 +3,6 @@ An app that uses dial animation and progress indicator to keep track of attendan
 
 + hold on progress indicator to reset counter
 + infinite counter 
+
+
 ##aesthetic.fucntional.minimal###
